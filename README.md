@@ -13,7 +13,7 @@ Senior High School (16-18)
 
 ---
 #Overall
-In this activity, students make a experiment about Archimedes's Law, and presenting they experiment to their friends in the class.
+In this activity, students make a experiment about Archimedes's Law, and presenting their experiment in the class.
 
 
 ---
@@ -25,6 +25,6 @@ In this activity, students make a experiment about Archimedes's Law, and present
 ---
 #Item/Material/System
 * material and tools for experiment
-* Screen for presentation
+
 
 ---
